@@ -2,8 +2,6 @@
 
 A Flutter-based audio equalizer app that enhances your music experience with customizable equalizer presets, bass boosting, audio delay, and more.
 
-![App Screenshot](screenshots/screenshot1.png) <!-- Replace with your own screenshot -->
-
 ---
 
 ## Features ✨
